@@ -1,0 +1,6 @@
+{
+    "prettier.semi": false,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
+    "javascript.suggestionActions.enabled": false
+}
